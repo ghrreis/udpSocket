@@ -1,2 +1,2 @@
 # udpSocket
-Aplicação cliente/servidor onde o cliente envia comando para o servidor executar no SO e devolver o resultado para o cliente.
+Aplicação cliente/servidor onde o cliente envia comandos de terminal ao servidor para ser executado no SO e devolver a resposta ao cliente.
